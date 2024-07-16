@@ -1,40 +1,25 @@
-<h2 align="left">Hola!!! Soy Bernardo,  estoy estudiando a programar en C. <br>Vivo en México.</h2>
+<h1 align="left">Hey 👋 Mi nombre es Bernardo, soy un estudiante de programación.<br>Actualmente, estoy estudiando una carrera técnica en desarrollo de software.</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darknessberna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="left">Soy de Mexico ;)</p>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/f2/06/83/f20683b6c2e8833dc9aa3166661480c5.jpg"  />
+<h2 align="left">Sobre mi</h2>
+
+###
+
+<p align="left">✨ Voy en primer semestre de mi carrera<br>📚 Actualmente, en la carrera estoy aprendiendo a programar en C<br>🎯 Por el momento mis metas son continuar con mis estudios, tambien me gustaria conocer mas gente con quien platicar.<br>🎲 Un dato random es que disfruto mucho la comida casera.</p>
+
+###
+
+<h2 align="left">Codifico con</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/dark_yisus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="bernardodelgadoflores1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Darknessberna/Darknessberna/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
 
 ###
