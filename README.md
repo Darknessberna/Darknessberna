@@ -1,25 +1,16 @@
-<h1 align="left">Hey 👋 Mi nombre es Bernardo, soy un estudiante de programación.<br>Actualmente, estoy estudiando una carrera técnica en desarrollo de software.</h1>
+<h1 align="center">Hola 👋, me llamo Bernardo Delgado</h1>
+<h3 align="center">Soy un estudiante de carrera de software</h3>
 
-###
+- 🌱Actualmente estoy aprendiendo a **programar en C* *
 
-<p align="left">Soy de Mexico ;)</p>
+- 📫 ¿Como llegar a mi? **bernardodelgadoflores1@gmail.com**
 
-###
+- ⚡ Dato curioso **Me gusta charlar con otras personas, pero siempre al principio me cuesta entablar una charla.**
 
-<h2 align="left">Sobre mi</h2>
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="izquierda">
+<a href="https://discord.gg/https://discord.com/invite/SVHjxUKy" target="blanco"><img align="centro" src="https : "https://discord.com/invite/SVHjxUKy" alt="https://discord.com/invite/SVHjxUKy" altura= "30" width="40" /></a>
+</p>
 
-###
-
-<p align="left">✨ Voy en primer semestre de mi carrera<br>📚 Actualmente, en la carrera estoy aprendiendo a programar en C<br>🎯 Por el momento mis metas son continuar con mis estudios, tambien me gustaria conocer mas gente con quien platicar.<br>🎲 Un dato random es que disfruto mucho la comida casera.</p>
-
-###
-
-<h2 align="left">Codifico con</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-</div>
-
-###
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/ c-original.svg" alt="c" ancho="40" alto="40"/> </a> </p>
